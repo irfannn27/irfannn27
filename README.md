@@ -22,7 +22,7 @@ You can find me on:
 
 <a href="https://www.linkedin.com/in/irfan-putra-pratama-54b10734b//" target="_blank"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="30px"/></a>
 <a href="https://www.instagram.com/skawnfaa/" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/instagram-new.png" alt="Instagram" width="30px"/></a>
-<a href="https://github.com/irfannn27" target="_blank"><img src="https://img.icons8.com/material-outlined/48/000000/github.png" alt="GitHub" width="30px"/></a>
+<a href="https://github.com/rrfnie" target="_blank"><img src="https://img.icons8.com/material-outlined/48/000000/github.png" alt="GitHub" width="30px"/></a>
 <a href="https://tiktok.com/@skawnfaa" target="_blank"><img src="https://img.icons8.com/?size=100&id=123922&format=png&color=000000" alt="Tiktok" width="30px"/></a>
 
 
@@ -52,7 +52,7 @@ You can find me on:
 ## 📈My Github Stats
 
 <div align="left">
-  <img src="https://streak-stats.demolab.com?user=irfannn27&locale=en&mode=weekly&theme=radical&hide_border=false&border_radius=5" height="150" alt="streak"  />
-  <img src="https://github-readme-stats.vercel.app/api?username=irfannn27&show_icons=true&include_all_commits=true&count_private=true&theme=radical" height="150" alt="stats"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=irfannn27&layout=compact&theme=radical" height="150" alt="languages"  />
+  <img src="https://streak-stats.demolab.com?user=rrfnie&locale=en&mode=weekly&theme=radical&hide_border=false&border_radius=5" height="150" alt="streak"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=rrfnie&show_icons=true&include_all_commits=true&count_private=true&theme=radical" height="150" alt="stats"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rrfnie&layout=compact&theme=radical" height="150" alt="languages"  />
 </div>
