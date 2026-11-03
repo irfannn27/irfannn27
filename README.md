@@ -49,8 +49,8 @@ You can find me on:
 
 ## 📈 My GitHub Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=rrfnie&theme=radical)](https://git.io/streak-stats)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rrfnie&show_icons=true&include_all_commits=true&count_private=true&theme=radical&v=20261103)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rrfnie&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rrfnie&layout=compact&theme=radical&v=20261103)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rrfnie&layout=compact&theme=radical)
+![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rrfnie&theme=radical&v=20261103)
