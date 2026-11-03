@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="700" height="180" viewBox="0 0 700 180">
+<rect width="700" height="180" rx="12" fill="#161b22"/>
+<text x="30" y="42" fill="#f0f6fc" font-family="Arial,sans-serif" font-size="24" font-weight="bold">rrfnie's GitHub Stats</text>
+<text x="30" y="82" fill="#8b949e" font-family="Arial,sans-serif" font-size="15">Public repositories</text><text x="30" y="112" fill="#58a6ff" font-family="Arial,sans-serif" font-size="26" font-weight="bold">6</text>
+<text x="250" y="82" fill="#8b949e" font-family="Arial,sans-serif" font-size="15">Followers</text><text x="250" y="112" fill="#58a6ff" font-family="Arial,sans-serif" font-size="26" font-weight="bold">0</text>
+<text x="450" y="82" fill="#8b949e" font-family="Arial,sans-serif" font-size="15">Stars earned</text><text x="450" y="112" fill="#58a6ff" font-family="Arial,sans-serif" font-size="26" font-weight="bold">0</text>
+<text x="30" y="150" fill="#8b949e" font-family="Arial,sans-serif" font-size="14">Forks across public repositories: 0</text>
+</svg>
