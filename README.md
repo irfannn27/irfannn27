@@ -48,9 +48,6 @@ You can find me on:
 
 
 ## 📈 My GitHub Stats
-<div align="left">
-  <img src="https://streak-stats.demolab.com?user=rrfnie&locale=en&mode=weekly&theme=radical&hide_border=false&border_radius=5" height="150" alt="streak"  />
-  <img src="https://github-readme-stats.vercel.app/api?username=rrfnie&show_icons=true&include_all_commits=true&count_private=true&theme=radical" height="150" alt="stats"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rrfnie&layout=compact&theme=radical" height="150" alt="languages"  />
+<div align="center">
+  <img src="./github-stats.svg" width="700" alt="GitHub statistics" />
 </div>
-![GitHub Stats](./github-stats.svg)
