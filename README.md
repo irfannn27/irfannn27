@@ -18,10 +18,10 @@ Welcome to my GitHub profile! I'm a Tech Enthusiast
 
 You can find me on:
 
-<a href="https://www.linkedin.com/in/irfan-putra-pratama-54b10734b//" target="_blank"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="30px"/></a>
+<a href="https://www.linkedin.com/in/irfan-putra-pratama-54b10734b/" target="_blank"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="30px"/></a>
 <a href="https://www.instagram.com/skawnfaa/" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/instagram-new.png" alt="Instagram" width="30px"/></a>
 <a href="https://github.com/rrfnie" target="_blank"><img src="https://img.icons8.com/material-outlined/48/000000/github.png" alt="GitHub" width="30px"/></a>
-<a href="https://tiktok.com/@skawnfaa" target="_blank"><img src="https://img.icons8.com/?size=100&id=123922&format=png&color=000000" alt="Tiktok" width="30px"/></a>
+<a href="https://tiktok.com/@skawnfaa" target="_blank"><img src="https://img.icons8.com/ios-filled/50/tiktok--v1.png" alt="Tiktok" width="30px"/></a>
 
 
 
