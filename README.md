@@ -49,4 +49,4 @@ You can find me on:
 
 ## 📈 My GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rrfnie&show_icons=true&theme=radical)
+![GitHub Stats](./github-stats.svg)
