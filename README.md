@@ -49,7 +49,7 @@ You can find me on:
 
 ## 📈 My GitHub Stats
 
-<img src="https://streak-stats.demolab.com?user=rrfnie&locale=en&mode=weekly&theme=radical&hide_border=false&border_radius=5" height="150" alt="streak" />
+<img src="https://streak-stats.demolab.com?user=rrfnie&locale=en&mode=weekly&theme=radical&hide_border=false&border_radius=5" height="150" alt="streak"  />
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rrfnie&layout=compact&theme=radical&v=20261103)
 
