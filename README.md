@@ -49,10 +49,10 @@ You can find me on:
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
 
-## 📈My Github Stats
+## 📈 My GitHub Stats
 
-<div align="left">
-  <img src="https://streak-stats.demolab.com?user=rrfnie&theme=radical&hide_border=true&border_radius=5&cache_seconds=1800" height="150" alt="streak"  />
-  <img src="https://github-readme-stats.vercel.app/api?username=rrfnie&show_icons=true&theme=radical&hide_border=true&cache_seconds=1800" height="150" alt="stats"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rrfnie&layout=compact&theme=radical&hide_border=true&cache_seconds=1800" height="150" alt="languages"  />
-</div>
+[![GitHub Streak](https://streak-stats.demolab.com?user=rrfnie&theme=radical)](https://git.io/streak-stats)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rrfnie&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rrfnie&layout=compact&theme=radical)
